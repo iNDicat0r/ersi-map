@@ -2,3 +2,10 @@
   max-height: 35vh;
   overflow: hidden;
 }
+
+html, body, #map {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
